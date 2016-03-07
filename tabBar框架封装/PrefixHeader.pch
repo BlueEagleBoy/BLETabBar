@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  LoginPage
+//
+//  Created by BlueEagleBoy on 16/3/7.
+//  Copyright © 2016年 BlueEagleBoy. All rights reserved.
+//
+
+#define BLEScreenHeight [UIScreen mainScreen].bounds.height
+#define BLEScreenWidth [UIScreen mainScreen].bounds.width
+
+
+
+#define DLog( s, ... ) NSLog( @"<%@:(%d)> %@", [[NSString stringWithUTF8String:__FILE__] lastPathComponent], __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__])
+
+
