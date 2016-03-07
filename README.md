@@ -79,5 +79,6 @@
 
 ```
 
-5.运行 
+5.运行结果：
+![](http://xiangce.baidu.com/picture/detail/920268a8c512e77b57970997bd635077a3d61d67?from=dialog)
 
